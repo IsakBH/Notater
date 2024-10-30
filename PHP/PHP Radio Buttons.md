@@ -1,5 +1,5 @@
 
-```
+```php
 <?php
 $creditcard = null; // Angir $creditcard variabelen verdien 'null'
 

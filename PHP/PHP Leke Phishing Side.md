@@ -1,5 +1,5 @@
 
-```
+```php
 <?php
 if (isset($_POST["login"])) {  // Tar informasjon fra et HTML-form med POST og variabler med det
     $username = $_POST["E-mail"];
