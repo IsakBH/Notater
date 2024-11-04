@@ -17,7 +17,7 @@ SERVER_NAME printer ut... server name...
 HTTP_HOST printer ut navnet på host serveren.
 
 #### HTTP_REFERER
-HTTP_REFERER printer ut URL-en til siden.
+HTTP_REFERER printer ut hvilke side som refererte til denne siden.
 
 #### HTTP_USER_AGENT
 HTTP_USER_AGENT printer ut user agenten til brukeren, som viser informasjon om nettleser, nettleserens engine, operativsystem, osv.
