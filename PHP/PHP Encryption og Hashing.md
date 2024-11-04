@@ -1,4 +1,4 @@
-```
+```php
 <?php
 $password = null; // Lager en variabel med verdi null.
 
