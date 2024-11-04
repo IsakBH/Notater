@@ -1,3 +1,4 @@
+
 ```php
 <form action="index.php" method="post">
     <input type="checkbox" name="foods[]" value="Pizza"> // Lager en input med typen "checkbox", name "foods[]" (array), og value "Pizza"

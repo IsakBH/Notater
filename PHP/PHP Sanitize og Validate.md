@@ -25,10 +25,10 @@ if (isset($_POST["login"])) { // sjekker om "login" i HTML-skjemaet er fylt inn
         echo "That is not a valid age.";
     }
 
-	if ($email) {
-	    echo "Your e-mail is $email <br>";
+	if ($email) { // sjekker/validerer om $email er valid
+	    echo "Your e-mail is $email <br>"; // Returnerer $email 1, så echo
 	} else {
-	    echo "That is not a valid e-mail. <br>";
+	    echo "That is not a valid e-mail. <br>"; // Returnerer $email 0, så echo at den ikke er valid.
 	}
 }
 ?>
