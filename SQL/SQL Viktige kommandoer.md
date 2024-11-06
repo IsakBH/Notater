@@ -1,0 +1,12 @@
+- `SELECT` - henter data fra databasen
+- `UPDATE` - oppdaterer data i databasen
+- `DELETE` - sletter data fra databasen
+- `INSERT INTO` - skriver inn ny data inn i databasen
+- `CREATE DATABASE` - lager en ny database
+- `ALTER DATABASE` - modifiser en database
+- `CREATE TABLE` - lag et nytt table
+- `ALTER TABLE` - modifiser et table
+- `DROP TABLE` - slett et table
+- `CREATE INDEX` - lag en index (search key)
+- `DROP INDEX` - sletter en index
+
