@@ -10,7 +10,7 @@ switch ($creditcard) { // Gjør det samme som if/elseif men med mindre kode. Tre
     case "obos":
         echo "You have picked Obos as your payment option.";
         break;
-    case "mastercard":
+    case "mastercard":blir skrevet. Du kan også bruke variabeler for dette.
         echo "You have picked MasterCard as your payment option.";
         break;
     case "sparebanken":

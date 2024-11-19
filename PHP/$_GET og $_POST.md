@@ -1,4 +1,4 @@
-## _$GET  og $_POST
+## $GET  og $POST
 
 ```
 <?php

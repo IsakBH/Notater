@@ -1,5 +1,5 @@
-- `SELECT` - henter data fra databasen
-- `UPDATE` - oppdaterer data i databasen
+- `SELECT` - selecter / henter data fra databasen
+- `UPDATE` - oppdaterer / endrer data i databasen
 - `DELETE` - sletter data fra databasen
 - `INSERT INTO` - skriver inn ny data inn i databasen
 - `CREATE DATABASE` - lager en ny database
