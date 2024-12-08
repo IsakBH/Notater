@@ -1,2 +1,5 @@
 [[Formaterte strenger]]
 [[Fizzbuzz]]
+[[Kalkulator]]
+[[Gangetabell]]
+[[Reverser en streng]]
