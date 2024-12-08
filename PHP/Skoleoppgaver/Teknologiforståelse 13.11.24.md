@@ -99,7 +99,7 @@ function fizzbuzz($i, $n){ // lager en funksjon med navnet fizzbuzz og 2 argumen
             echo "Buzz <br>"; // echo-er Buzz
         }
         else{ // hvis ingen av de er true
-            ech6o $i . "<br>"; // echo-er $i
+            echo $i . "<br>"; // echo-er $i
         }
     }
 }
@@ -107,3 +107,4 @@ function fizzbuzz($i, $n){ // lager en funksjon med navnet fizzbuzz og 2 argumen
 fizzbuzz(1, 100);
 ?>
 ```
+

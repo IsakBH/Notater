@@ -17,4 +17,4 @@ if (password_verify($password, $hash)) { // Sjekker om password_verify kan verif
 ?>
 ``` 
 ## Hvorfor og når bruke encryption / hashing?
-Encryption og hashing er **veldig** viktig å bruke hvis du skal ha noe form for sensetiv informasjon. For eksempel hvis du skal ha noe innlogging på siden din, burde du ha encryption og hashing på passordene.
+Encryption og hashing er **veldig** viktig å bruke hvis du skal ha noe form for sensetiv informasjon. For eksempel hvis du skal ha noe innlogging på siden din, burde du ha encryption og hashing på passordene.y good and way better than I thought it would be. It's a strange frankenstein of the Sims and Civilization/Stellaris but it
